@@ -50,7 +50,7 @@ Business Objectives
 
 ## Contact
 Created by 
-- SharathKurup1990
-- vinay1793
+- https://github.com/SharathKurup1990
+- https://github.com/vinay1793
  
 
