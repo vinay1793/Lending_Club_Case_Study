@@ -1,5 +1,6 @@
 # Project Name
 Lending_Club_Case Study
+> The study identifies the risky loan applicants who might end up being a "defaulter" and can significantly bring financial loss to the lending company.
 
 
 ## Table of Contents
@@ -36,11 +37,11 @@ Business Objectives
 
 
 ## Technologies Used
-- Python - version 3.7.6
--NumPy - version 1.18.1
--Pandas - version 1.2.3
--Matplotlib - version 3.1.3
--Seaborn - version 0.10.0
+- Python - version 3.7.6.
+-NumPy - version 1.18.1.
+-Pandas - version 1.2.3.
+-Matplotlib - version 3.1.3.
+-Seaborn - version 0.10.0.
 
 
 ## Acknowledgements
