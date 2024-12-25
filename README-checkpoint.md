@@ -4,10 +4,10 @@ Lending_Club_Case Study
 
 
 ## Table of Contents
-Business Objectives
--General Info
--Conclusions
--Technologies Used
+Business Objectives\
+-General Info\
+-Conclusions\
+-Technologies Used\
 -Acknowledgements
 
 
