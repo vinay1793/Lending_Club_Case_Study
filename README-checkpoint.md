@@ -5,14 +5,10 @@ Lending_Club_Case Study
 
 ## Table of Contents
 Business Objectives
-▶	Data Description
-▶	Data Understanding
-▶	Data Cleaning and Pre-processing
-▶	Univariate Analysis
-▶	Bivariate Analysis
-▶	Multivariate Analysis
-▶	Final Inference and Suggestions
-▶	Useful Links
+-General Info
+-Conclusions
+-Technologies Used
+-Acknowledgements
 
 
 
