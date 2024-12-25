@@ -1,52 +1,55 @@
 # Project Name
-> Outline a brief description of your project.
+Lending_Club_Case Study
 
 
 ## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+Business Objectives
+▶	Data Description
+▶	Data Understanding
+▶	Data Cleaning and Pre-processing
+▶	Univariate Analysis
+▶	Bivariate Analysis
+▶	Multivariate Analysis
+▶	Final Inference and Suggestions
+▶	Useful Links
+
+
 
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+-The borrowers who default cause the largest amount of loss to the lenders, reduces lender’s cash flow. Identifying those risky applicants helps in cutting down the amount of credit loss to the organization. 
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+
+
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+- If loan amount is less, then we should try to cap the loan term to 36 month
+- If loan amount is high, we should have a combination higher tenure with medium interest rate.In long term, it will help in recovery of larger amount for investor
+- For customer with long employment tenure, following factor need to taken into consideration
+     - we need to check DTI value (to see whether existing financial burden is there).
+     - Make sure that proper verification and risk analysis is done and no Complacency is done due to tenure
+     - Even for longer-tenured employees, apply stricter underwriting standards for larger loan amounts. Don't assume that employment tenure alone guarantees low risk.
+     - Use a combination capped loan amount (based on DTI, income and other factor) with high interest- short tenure, or low/medium interest with high tenure.
+       
+- Verify the payoff of existing debts for debt consolidation loans to ensure responsible use of funds.
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Python - version 3.7.6
+-NumPy - version 1.18.1
+-Pandas - version 1.2.3
+-Matplotlib - version 3.1.3
+-Seaborn - version 0.10.0
 
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+
+- This project was created as a case study required for Executive PG Programme in Machine Learning & AI - IIIT, Bangalore.
+- 
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by 
+ 
 
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
