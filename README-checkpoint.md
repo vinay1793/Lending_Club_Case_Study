@@ -46,10 +46,11 @@ Business Objectives
 ## Acknowledgements
 
 - This project was created as a case study required for Executive PG Programme in Machine Learning & AI - IIIT, Bangalore.
-- 
 
 
 ## Contact
 Created by 
+- SharathKurup1990
+- vinay1793
  
 
